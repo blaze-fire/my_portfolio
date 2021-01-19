@@ -6,6 +6,32 @@
     <description>Recent content in SKILLS on Krishan Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Krishan Singh</copyright><atom:link href="https://blaze-fire.github.io/my_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Krishan Singh</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:49:05 +0200</lastBuildDate><atom:link href="https://blaze-fire.github.io/my_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio Definition</title>
+      <link>https://blaze-fire.github.io/my_portfolio/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      
+      <guid>https://blaze-fire.github.io/my_portfolio/post/portfolio-definition/</guid>
+      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://blaze-fire.github.io/my_portfolio/post/images/portfolio-example.png&#34;
+         alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Config File</title>
+      <link>https://blaze-fire.github.io/my_portfolio/post/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://blaze-fire.github.io/my_portfolio/post/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
+&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
