@@ -7,7 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Krishan Singh</copyright>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blaze-fire.github.io/my_portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blaze-fire.github.io/my_portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future Sales</title>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/b-future-sales/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/b-future-sales/</guid>
+      <description>Predicting future sales
+This challenge serves as final project for the &amp;ldquo;How to win a data science competition&amp;rdquo; Coursera course.
+In this competition we will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company.
+We will predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.</description>
+    </item>
+    
+    <item>
+      <title>HackerEarth Image Classification</title>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</guid>
+      <description>HackerEarth Image Classification
+An e-commerce platform is getting all geared up for a season clearance sale and plans to leverage social media as the primary channel to reach their audiences. The campaign’s target group are individuals/families that have recently posted a picture of their indoor Christmas decor or are traveling during the holidays.
+You work at a leading social media platform and your team has been tasked to build a product recommendation engine for consumers.</description>
+    </item>
+    
     <item>
       <title>Salary Predictions</title>
       <link>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</link>
