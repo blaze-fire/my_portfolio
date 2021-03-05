@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blaze-fire.github.io/my_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AV JOB-A-THON</title>
-      <link>https://blaze-fire.github.io/my_portfolio/portfolio/job-a-thon/</link>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/job-a-thon/</guid>
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</guid>
       <description>Health Insurance Lead Prediction Your Client FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommend health insurance to it&amp;rsquo;s customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply.</description>
     </item>
     
@@ -42,10 +42,10 @@ You work at a leading social media platform and your team has been tasked to bui
     
     <item>
       <title>Salary Predictions</title>
-      <link>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</link>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/a-salary-pred/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</guid>
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/a-salary-pred/</guid>
       <description>Predicting salaries on the scraped data from indeed
 Covid-19 has impacted our lives greatly but more so has impacted source of income of many, as if things were already not difficult. As an engineering student currently in my 2nd year, I would be sitting for my internships soon, it would be great to have an idea what skills are trending in tech industry, to boost my chances of getting good internships and eventually a good job, in this project, I predict salaries based on the skills, company names, requirements and rating of the company posted in indeed (best job searching site), for which I scraped the site using BeautifulSoup library.</description>
     </item>
