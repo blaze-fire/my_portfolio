@@ -2,33 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/sample-project/</loc>
-    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blaze-fire.github.io/my_portfolio/</loc>
-    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blaze-fire.github.io/my_portfolio/portfolio/</loc>
-    <lastmod>2021-02-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/b-future-sales/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blaze-fire.github.io/my_portfolio/portfolio/a-salary-pred/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</loc>
+    <lastmod>2021-01-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/b-future-sales/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/d-neural_style_transfer/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/f-emojifier/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/g-mailing_client/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp-chat/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/e-ddos/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/i-cashflow/</loc>
+    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
