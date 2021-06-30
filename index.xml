@@ -84,10 +84,10 @@ For gmail : Make sure you have granted permission for both Sender and Receiver t
     
     <item>
       <title>TCP Chat</title>
-      <link>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp-chat/</link>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp_chat/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp-chat/</guid>
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp_chat/</guid>
       <description>Terminal based TCP Chat using python
 We implement a fully-functioning TCP chat with one server that hosts the chat and multiple clients that connect to it and communicate with each other.
 References : https://www.neuralnine.com/tcp-chat-in-python/</description>
