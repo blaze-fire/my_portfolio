@@ -19,13 +19,23 @@ Covid-19 has impacted our lives greatly but more so has impacted source of incom
     </item>
     
     <item>
-      <title>HackerEarth Image Classification</title>
-      <link>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</link>
+      <title>AV JOB-A-THON</title>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</link>
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</guid>
-      <description>An e-commerce platform is getting all geared up for a season clearance sale and plans to leverage social media as the primary channel to reach their audiences. The campaign’s target group are individuals/families that have recently posted a picture of their indoor Christmas decor or are traveling during the holidays.
-You work at a leading social media platform and your team has been tasked to build a product recommendation engine for consumers.</description>
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</guid>
+      <description>Health Insurance Lead Prediction Your Client FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommend health insurance to it&amp;rsquo;s customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply.</description>
+    </item>
+    
+    <item>
+      <title>Explainable-AI</title>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/j-explainalble-ai/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/j-explainalble-ai/</guid>
+      <description>Explainable-AI (XAI) Refer here for video demo and here for notebook demo
+When you train a classifier model on a dataset you don’t know its behaviour of predictions, that why the model outputs a particular value?.
+The intuition behind the architecture and working is that to provide a general framework that explains a model behaviour (right now support only linear classifier models (LogisticRegression, SGDClassifier, LinearSVC), models which return coefficients after training.</description>
     </item>
     
     <item>
@@ -41,12 +51,13 @@ We will predict total sales for every product and store in the next month. By so
     </item>
     
     <item>
-      <title>AV JOB-A-THON</title>
-      <link>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</link>
+      <title>HackerEarth Image Classification</title>
+      <link>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</guid>
-      <description>Health Insurance Lead Prediction Your Client FinMan is a financial services company that provides various financial services like loan, investment funds, insurance etc. to its customers. FinMan wishes to cross-sell health insurance to the existing customers who may or may not hold insurance policies with the company. The company recommend health insurance to it&amp;rsquo;s customers based on their profile once these customers land on the website. Customers might browse the recommended health insurance policy and consequently fill up a form to apply.</description>
+      <guid>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</guid>
+      <description>An e-commerce platform is getting all geared up for a season clearance sale and plans to leverage social media as the primary channel to reach their audiences. The campaign’s target group are individuals/families that have recently posted a picture of their indoor Christmas decor or are traveling during the holidays.
+You work at a leading social media platform and your team has been tasked to build a product recommendation engine for consumers.</description>
     </item>
     
     <item>
