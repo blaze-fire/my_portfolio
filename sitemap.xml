@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blaze-fire.github.io/my_portfolio/</loc>
+    <loc>https://blaze-fire.github.io/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/a-salary-pred/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/a-salary-pred/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/c-job-a-thon/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/c-job-a-thon/</loc>
     <lastmod>2021-01-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/j-explainalble-ai/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/j-explainalble-ai/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/b-future-sales/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/b-future-sales/</loc>
     <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/a-object-detection/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/a-object-detection/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/d-neural_style_transfer/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/d-neural_style_transfer/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/f-emojifier/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/f-emojifier/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/g-mailing_client/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/g-mailing_client/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/h-tcp_chat/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/h-tcp_chat/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/e-ddos/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/e-ddos/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/portfolio/i-cashflow/</loc>
+    <loc>https://blaze-fire.github.io/portfolio/i-cashflow/</loc>
     <lastmod>2021-01-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/about/</loc>
+    <loc>https://blaze-fire.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/designs/</loc>
+    <loc>https://blaze-fire.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/post/</loc>
+    <loc>https://blaze-fire.github.io/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blaze-fire.github.io/my_portfolio/techs/</loc>
+    <loc>https://blaze-fire.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
