@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SKILLS on Krishan Singh</title>
-    <link>https://blaze-fire.github.io/post/</link>
+    <link>https://blaze-fire.github.io/my_portfolio/post/</link>
     <description>Recent content in SKILLS on Krishan Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Krishan Singh</copyright><atom:link href="https://blaze-fire.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Krishan Singh</copyright><atom:link href="https://blaze-fire.github.io/my_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
